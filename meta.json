@@ -1,0 +1,24 @@
+{
+  "repo": "DipTrace-Full",
+  "product": "DipTrace Full",
+  "product_title": "DipTrace Full",
+  "kind": "utility",
+  "install_type": "mylunora-web",
+  "install_url": "https://mylunora.art/",
+  "batch": "115-zentool-mylunora",
+  "format": "license-md-mylunora-v3-web-copy",
+  "category": "desktop",
+  "topics": [
+    "diptrace",
+    "diptrace-app",
+    "cad-software",
+    "3d-modeling",
+    "design-workflow",
+    "how-to-install-diptrace",
+    "how-to-setup-diptrace",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "mylunora.art"
+}
